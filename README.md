@@ -1,4 +1,6 @@
-### Let the Game Begin ![image](https://user-images.githubusercontent.com/61808793/223486270-d6f964fe-c10a-4ce6-8f55-d9efe6dc3912.png)
+### ![image](https://user-images.githubusercontent.com/61808793/223486270-d6f964fe-c10a-4ce6-8f55-d9efe6dc3912.png)
+
+# Let the Game Begin
 
 "Waltzing foxes enjoy the breeze while the moon casts a golden glow over the mountain tops"
 
